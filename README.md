@@ -1,24 +1,24 @@
-# README
+# Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicación Ruby on Rails, desarrollada para la materia de Lenguajes Web Tema VI Lenguajes Transaccionales.
 
-Things you may want to cover:
+## Desarrollado con
 
-* Ruby version
+- **Ruby:** 2.7.3
+- **Ruby on Rails:** 6.1.4
+  
+## Instalación 
 
-* System dependencies
+Clonar el repositorio e instalar las dependencias.
 
-* Configuration
+```bash 
+  git clone https://github.com/vegonz/Ruby-on-Rails.git
+  cd Ruby on Rails
+  npm install
+  bundle install
+  rails s
+```
+    
+## Autor
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Ernesto Velasco González](https://www.github.com/vegonz)
